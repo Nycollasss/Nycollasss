@@ -1,7 +1,6 @@
 
 
 ### Olá! Eu sou Nycollas 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nycollasrdossantos@gmail.com)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nark_souls/)
 
 ![Nycollas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nycollasss&show_icons=true&theme=radical)
