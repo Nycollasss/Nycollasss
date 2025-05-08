@@ -10,20 +10,31 @@
   <img src="https://img.shields.io/github/stars/Nycollasss?style=flat-square&logo=github&label=STARS"/>
 </div>
 
-<h2 align="center">✨ Sobre mim</h2>
+<h2>Sobre mim</h2>
 
-<p align="center">
-Sou um desenvolvedor Full-Stack em constante evolução. Trabalho principalmente com JavaScript e Python, sempre em busca de novos desafios, ideias criativas e formas de melhorar como programador.
+<p>
+Apenas alguém perfeccionista.
+</p>
+<p>
+Atualmente estou desenvolvendo minhas habilidades em programação.
+</p>
+<p>
+Principais linguagens: Javascript, Python e futuramente PHP.
+</p>
+<p>
+</p>
+<p>
+Tenho interesse em Cibersegurança, Banco de dados, Inteligência Artificial, Blockchain.
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nycollasss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycollasss&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
 </div>
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">🛠Tech Stack</h2>
 
 <p align="center">
   <!-- Linha 1 -->
@@ -69,14 +80,14 @@ Sou um desenvolvedor Full-Stack em constante evolução. Trabalho principalmente
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
-<h2 align="center">💻 Linguagens Principais</h2>
+<h2 align="center">Linguagens Principais</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h2 align="center">📞 Se conecte comigo</h2>
+<h2 align="center">Se conecte comigo</h2>
 
 <p align="center">
   <a href="https://wa.me/+5511986059721">
