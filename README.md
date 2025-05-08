@@ -5,25 +5,25 @@
 <h1 align="center">Eu sou Nycollas</h1>
 
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=Nycollasss&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/Nycollasss?style=social"/>
-  <img src="https://img.shields.io/github/stars/Nycollasss?style=social"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Nycollasss&style=flat-square&color=blue&label=PROFILE%20VIEWS"/>
+  <img src="https://img.shields.io/github/followers/Nycollasss?style=flat-square&logo=github&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/Nycollasss?style=flat-square&logo=github&label=STARS"/>
 </div>
 
-## ✨ Sobre mim
+<h2 align="center">✨ Sobre mim</h2>
 
+<p align="center">
 Sou um desenvolvedor Full-Stack em constante evolução. Trabalho principalmente com JavaScript e Python, sempre em busca de novos desafios, ideias criativas e formas de melhorar como programador.
+</p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nycollasss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycollasss&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
 </div>
 
-## 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
   <!-- Linha 1 -->
@@ -69,30 +69,34 @@ Sou um desenvolvedor Full-Stack em constante evolução. Trabalho principalmente
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
-### 💻 Linguagens Principais
+<h2 align="center">💻 Linguagens Principais</h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-## Se conecte comigo
+<h2 align="center">📞 Se conecte comigo</h2>
 
-<a href="https://wa.me/+5511986059721">
-  <img src="https://img.shields.io/badge/WHATSZAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/_naarkzy/">
-  <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/LINKEDIN/">
-  <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:nycollasrdossantos@gmail.com">
-  <img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://wa.me/+5511986059721">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_naarkzy/">
+    <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/LINKEDIN/">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nycollasrdossantos@gmail.com">
+    <img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://i.postimg.cc/3w5nBNg6/i-love-you-1.jpg" alt="Japan" width="100%"/>
 </p>
 
-⚠ This README is uniquely designed by Nycollasss. ⚠
-
-
+<p align="center">
+  ⚠ This README is uniquely designed by Nycollasss. ⚠
+</p>
