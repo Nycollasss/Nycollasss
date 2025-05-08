@@ -63,6 +63,6 @@ Sou um desenvolvedor Full-Stack em constante evolução. Trabalho principalmente
 ---
 
 <p align="center">
-  <img src="https://i.postimg.cc/rsJdRnqg/Miyamoto-Musashi.jpg" alt="Japan" width="100%"/>
+  <img src="https://i.postimg.cc/3w5nBNg6/i-love-you-1.jpg" alt="Japan" width="100%"/>
 </p>
 
