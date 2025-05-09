@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Banner" width="100%"/>
+  <img src="greenslep.gif" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Eu sou Nycollas</h1>
@@ -20,8 +20,6 @@ Atualmente estou desenvolvendo minhas habilidades em programação.
 </p>
 <p>
 Principais linguagens: Javascript, Python e futuramente PHP.
-</p>
-<p>
 </p>
 <p>
 Tenho interesse em Cibersegurança, Banco de dados, Inteligência Artificial, Blockchain.
