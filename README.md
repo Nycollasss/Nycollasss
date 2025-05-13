@@ -101,7 +101,7 @@ Tenho interesse em Cibersegurança, Banco de dados, Inteligência Artificial, Bl
     <img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://naarkali-bashfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Bashfolio-000000?style=flat-square&logo=gnubash&logoColor=white" alt="EscritoBashfolio"/>
+  <img src="https://img.shields.io/badge/BASHFOLIO-000000?style=flat-square&logo=gnubash&logoColor=white" alt="EscritoBashfolio"/>
 </a>
 
 </p>
