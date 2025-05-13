@@ -100,9 +100,10 @@ Tenho interesse em Cibersegurança, Banco de dados, Inteligência Artificial, Bl
   <a href="mailto:nycollasrdossantos@gmail.com">
     <img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://app.netlify.com/sites/naarkali-bashfolio/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/1aaeb6bd-c84b-49ee-97d4-21fb46f49627/deploy-status"/>
-  </a>
+  <a href="https://naarkali-bashfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Bashfolio-000000?style=flat-square&logo=gnubash&logoColor=white" alt="EscritoBashfolio"/>
+</a>
+
 </p>
 
 <p align="center">
